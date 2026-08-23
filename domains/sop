@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "imhannsop",
+        "email": "imhannsop@gmail.com",
+        "repo": "https://github.com/imhannsop/imhann"
+    },
+
+    "records": {
+        "CNAME": "imhannsop.github.io"
+    },
+    "proxied": false
+}
